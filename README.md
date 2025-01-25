@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello...🤗
+Hello...🤗<br/>
 📌I am Ramez Khaled, a junior front-end developer passionate about creating efficient and visually appealing web applications. My tech stack includes HTML, CSS, JavaScript, React.js, TypeScript, Bootstrap, and Tailwind. I prioritize applying key programming principles in my work and aspire to contribute to impactful, large-scale projects in the future.<br/>📩 Gmail: ramezkhaled259@gmail.com
 
 
