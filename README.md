@@ -52,9 +52,6 @@ I love writing clean code, learning new technologies, and building meaningful di
 
 ---
 
-### 👁‍🗨 Profile Views  
-<img src="https://visitcount.itsvg.in/api?id=RamezKhaled77&icon=5&color=10"/>
-
 </div>
 
 <!-- Made with ❤️ by Ramez Khaled -->
