@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 I am Ramez Khaled, a junior front-end developer passionate about creating efficient and visually appealing web applications. My tech stack includes HTML, CSS, JavaScript, React.js, TypeScript, Bootstrap, and Tailwind. I prioritize applying key programming principles in my work and aspire to contribute to impactful, large-scale projects in the future.
 
@@ -23,5 +24,5 @@ I am Ramez Khaled, a junior front-end developer passionate about creating effici
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RamezKhaled77&icon=5&color=10)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
