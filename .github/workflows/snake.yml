@@ -16,20 +16,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Neon Red Snake Animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate NEON RED Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: RamezKhaled77
 
-          # Snake color (Neon Red)
+          # Snake color
           color_snake: "#FF1744"
 
-          # Dots (background contribution colors - neon cyber)
-          color_dots: "#0A0A0A,#1A1A1A,#33000A,#FF1744,#FF002A,#FF003C"
+          # Dot colors (neon red theme)
+          color_dots: "#0A0A0A,#1A1A1A,#33000A,#FF1744,#FF0033,#FF5E7D"
 
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/neon-snake.svg
 
-      - name: Deploy snake animation to the output branch
+      - name: Deploy animation
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
