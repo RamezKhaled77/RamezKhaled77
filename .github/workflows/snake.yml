@@ -25,7 +25,7 @@ jobs:
           color_snake: "#FF1744"
 
           # Dots (background contribution colors - neon cyber)
-          color_dots: "#0A0A0A,#111111,#1A1A1A,#FF1744,#FF0033,#FF5E7D"
+          color_dots: "#0A0A0A,#1A1A1A,#33000A,#FF1744,#FF002A,#FF003C"
 
           outputs: dist/github-contribution-grid-snake.svg
 
