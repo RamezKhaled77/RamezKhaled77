@@ -55,7 +55,7 @@ I love writing clean code, learning new technologies, and building meaningful di
 
 ## 🐍 Snake Contribution Animation  
 <p align="center">
-![snake gif](https://raw.githubusercontent.com/RamezKhaled77/RamezKhaled77/output/neon-snake.svg)
+  <img src="https://raw.githubusercontent.com/RamezKhaled77/RamezKhaled77/output/neon-snake.svg" alt="Snake Animation" />
 </p>
 
 </div>
