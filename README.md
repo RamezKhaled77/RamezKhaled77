@@ -35,10 +35,7 @@ I love writing clean code, learning new technologies, and building meaningful di
 ![](https://nirzak-streak-stats.vercel.app/?user=RamezKhaled77&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamezKhaled77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 
-## 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=RamezKhaled77&theme=dracula&no-bg=true&margin-w=15"/>
 
 ---
 
