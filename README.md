@@ -55,7 +55,16 @@ I love writing clean code, learning new technologies, and building meaningful di
   <img src="https://raw.githubusercontent.com/RamezKhaled77/RamezKhaled77/output/neon-snake.svg" alt="Snake Animation" />
 </p>
 
-  ![My GitHub Game](game.gif)
+<h2 align="center">🚀 My GitHub Journey</h2>
+
+<p align="center">
+  <img src="game.webp" alt="GitHub Space Shooter" width="700" />
+</p>
+
+<p align="center">
+  Turning commits into battles. One day at a time.
+</p>
+
 
 </div>
 
