@@ -60,6 +60,9 @@ I love writing clean code, learning new technologies, and building meaningful di
   Turning commits into battles. One day at a time.
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamezKhaled77&show_icons=true&theme=tokyonight" />
+</p>
 ---
 
 
