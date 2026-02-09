@@ -14,9 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+
       - uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: RamezKhaled77   # ← اسمك على GitHub
-          output-path: game.gif
-          strategy: random
+          username: RamezKhaled77 
+          output-path: game.webp
+          strategy: column
+          fps: 25
+          max-frame: 220
+
