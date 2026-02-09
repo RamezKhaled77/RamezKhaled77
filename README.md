@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Small animated GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="560" alt="coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="560" height="180" alt="coding gif"/>
 
 ---
 
