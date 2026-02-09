@@ -48,12 +48,7 @@ I love writing clean code, learning new technologies, and building meaningful di
 <img src="https://github-contributor-stats.vercel.app/api?username=RamezKhaled77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 ---
----
 
-## 🐍 Snake Contribution Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RamezKhaled77/RamezKhaled77/output/neon-snake.svg" alt="Snake Animation" />
-</p>
 
 <h2 align="center">🚀 My GitHub Journey</h2>
 
@@ -64,6 +59,8 @@ I love writing clean code, learning new technologies, and building meaningful di
 <p align="center">
   Turning commits into battles. One day at a time.
 </p>
+
+---
 
 
 </div>
