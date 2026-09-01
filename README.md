@@ -38,16 +38,16 @@
 </table>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramezkhaled77&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RamezKhaled77&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramezkhaled77&layout=compact&theme=github_dark_dimmed&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramezkhaled77&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamezKhaled77&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramezkhaled77&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamezKhaled77&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
