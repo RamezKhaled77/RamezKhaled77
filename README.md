@@ -1,68 +1,42 @@
-<div align="center">
-
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=F72C2C&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Ramez+Khaled;Front-End+Developer;React+%7C+TypeScript+%7C+Next.js" />
-</h1>
-
-<!-- Small animated GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="560" height="280" alt="coding gif"/>
-
----
-
-# 💫 About Me  
-I'm **Ramez Khaled**, a junior front-end developer passionate about building modern, fast, and beautiful web apps.  
-I love writing clean code, learning new technologies, and building meaningful digital experiences.
-
----
-
-## 🌐 Socials  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ramez.bibo.5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramez-khaled)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramezkhaled259@gmail.com)
-
----
-
-# ⚡ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,nodejs,mongodb,git,github,figma" />
-</p>
-
----
-
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=RamezKhaled77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=RamezKhaled77&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamezKhaled77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
----
-
-### ✍️ Random Dev Quote  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
----
-
-### 🔝 Top Contributed Repo  
-<img src="https://github-contributor-stats.vercel.app/api?username=RamezKhaled77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
----
-
-
-<h2 align="center">🚀 My GitHub Journey</h2>
+## Profile snapshot
 
 <p align="center">
-  <img src="game.webp" alt="GitHub Space Shooter" width="700" />
+  <img src="https://www.gitskins.com/api/section/hero?username=ramezkhaled77&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153294613%3Fu%3D0b4291b962d8000ebead74fa920399a373e94b28%26v%3D4" alt="ramezkhaled77 hero visual" />
 </p>
+
+**Ramez_90** · Frontend or full-stack engineer
+
+## About
+
+Building useful things and learning in public.
+
+- 👥 **3** followers · **3** following
+
+## Proof at a glance
+
+<table>
+<tr><td align="center"><b>33</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>549</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Core toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) `Dockerfile` `CMake`
+
+## Selected work
+
+- **[ai-resume-analyzer](https://github.com/RamezKhaled77/ai-resume-analyzer)** — Featured public work · ⭐ 0
+- **[ramez-portfolio-Vol-1](https://github.com/RamezKhaled77/ramez-portfolio-Vol-1)** — Featured public work · ⭐ 0
+- **[react-fast-pizza](https://github.com/RamezKhaled77/react-fast-pizza)** — Featured public work · ⭐ 0
+- **[React-Weather-App](https://github.com/RamezKhaled77/React-Weather-App)** — This project for more practicing on state, effect · ⭐ 0
+- **[World-Wise](https://github.com/RamezKhaled77/World-Wise)** — Featured public work · ⭐ 0
+- **[Texon-ecommerce](https://github.com/Texon-io/Texon-ecommerce)** — Featured public work · ⭐ 0
+
+## Let’s connect
 
 <p align="center">
-  Turning commits into battles. One day at a time.
+  <img src="https://www.gitskins.com/api/section/social?username=ramezkhaled77&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153294613%3Fu%3D0b4291b962d8000ebead74fa920399a373e94b28%26v%3D4" alt="ramezkhaled77 social visual" />
 </p>
 
----
+<a href="https://github.com/ramezkhaled77">GitHub</a>
 
-
-</div>
-
-<!-- Made with ❤️ by Ramez Khaled -->
+<p align="center"><sub>Ramez_90 · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
