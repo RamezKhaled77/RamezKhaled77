@@ -27,31 +27,15 @@ I love writing clean code, learning new technologies, and building meaningful di
 
 # ⚡ Tech Stack
 
-> > > > > > > parent of f226a73 (Merge pull request #1 from RamezKhaled77/gitskins/readme-mtisaclk)
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,nodejs,mongodb,git,github,figma" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=RamezKhaled77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=RamezKhaled77&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamezKhaled77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ### ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
----
-
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=RamezKhaled77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 ---
 
@@ -73,5 +57,3 @@ Turning commits into battles. One day at a time.
 </div>
 
 <!-- Made with ❤️ by Ramez Khaled -->
-
-> > > > > > > parent of f226a73 (Merge pull request #1 from RamezKhaled77/gitskins/readme-mtisaclk)
